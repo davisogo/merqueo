@@ -9,3 +9,10 @@ Observación: Adjutno el archivo merqueo.txt que contiene los caracteres, hay un
 
 php artisan migrate:install
 php artisan migrate --force
+
+
+Ejecutar en el navegador:
+
+http://localhost/merqueo/public/cms 
+
+Allí puedes loguearte o regustrarte, dependiendo si no hay sesión
